@@ -12,3 +12,4 @@ Get {Id}: https://apirest-produtos01.herokuapp.com/swagger-ui.html#!/produto45re
 
 Get Produtos: https://apirest-produtos01.herokuapp.com/swagger-ui.html#!/produto45resource/listaProdutosUsingGET
 
+Foi feito o deploy no Heroku.
